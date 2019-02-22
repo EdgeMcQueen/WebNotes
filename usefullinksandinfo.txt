@@ -1,0 +1,42 @@
+//FTP-программмы
+FileZilla
+filezilla-project.org
+
+FireFTP
+fireftp.mozdev.org
+
+CuteFTP
+cuteftp.com
+
+SmartFTP
+smartftp.com
+
+//Инструменты
+  //Блоги
+  wordpress.com
+  tumblr.com
+
+  //Электронная коммерция
+  shopify.com
+  bigcartel.com
+  go.magneto.com
+
+  //Рассылки электронной почты
+  campaingmonitor.com
+  mailchimp.com
+
+  //Средства  для организации совместной работы
+  addthis.com
+  addtoany.com
+
+//Поисковая оптимизация(SEO),аналитика и прочее
+  //Варианты ключевых слов
+  adwords.google.com
+  co.uk/select/
+  wordtracker.com
+  keyworddiscovery.com
+
+  //Аналитика
+  google.com/analytics
+
+  
