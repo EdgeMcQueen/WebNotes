@@ -1,0 +1,12 @@
+/*переопределение свойств box-sizing для всех родительских и дочерних элементов на странице*/
+*, *::before, *::after{
+  box-sizing: inherit;
+  }
+
+html{
+  box-sizing: border-box;
+  }
+
+.content_box{
+  box-sizing: content-box;
+  }
